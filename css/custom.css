@@ -1,0 +1,35 @@
+html {
+  background-color:lightseagreen;
+  font-size: 15px; 
+font-family: 'Trebuchet MS';
+
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 13px;
+   
+  }
+}
+body{
+  
+  font-family:Impact, 'Arial Narrow Bold','sans-serif';
+  text-align: center;
+  margin: 14px;
+  background-color:cadetblue;
+  text-indent: 4em;
+ text-transform: capitalize;
+  text-transform: uppercase;
+  text-decoration:dotted;
+  
+  
+  
+
+}
+#submitForm{
+  color:rgb(9, 187, 27);
+  font-size: 15px;
+
+}
+
+
